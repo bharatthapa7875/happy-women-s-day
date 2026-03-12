@@ -1,6 +1,5 @@
 # happy-women-s-day
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Believe</title>
